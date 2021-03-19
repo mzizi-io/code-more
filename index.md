@@ -1,2 +1,2 @@
-<h2><center> Welcome to Codemo </center></h2>
+<h1><center> Welcome to Codemo </center></h1>
 
