@@ -6,4 +6,4 @@ Codemo is a free repository providing explained scripts that not only provide in
 
 Feel free to contribute!
 
-<img src = 'img.png'>
+<img src = 'logo.png'>
