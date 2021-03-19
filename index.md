@@ -5,3 +5,5 @@
 Codemo is a free repository providing explained scripts that not only provide insights into numerous topics but also the intuition behind what is done. 
 
 Feel free to contribute!
+
+<img src = 'img.png'>
